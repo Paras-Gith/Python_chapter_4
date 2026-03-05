@@ -11,11 +11,11 @@ Each file demonstrates key concepts such as lists, tuples, and their methods, al
 | Chapter 4.1 list methods.py    | Demonstrates common list methods (append(), insert(), remove(), etc.).      |
 | Chapter 4.2 tuples.py          | Explains tuple basics and immutability.                                     |
 | Chapter 4.3 tuple methods.py   | Shows tuple operations and built‑in methods.                                |
-| Chapter 4 practice 1.py        | Practice exercise 1 – working with lists.                                   |
-| Chapter 4 practice 2.py        | Practice exercise 2 – experimenting with list methods.                      |
-| Chapter 4 practice 3.py        | Practice exercise 3 – applying tuple concepts.                              |
-| Chapter 4 practice 4.py        | Practice exercise 4 – combining lists and tuples in small programs.         |
-| Chapter 4 practice 5.py        | Practice exercise 5 – reinforcing concepts with problem‑solving tasks.      |
+| Chapter 4 practice 1.py        | Practice exercise 1                                                         |
+| Chapter 4 practice 2.py        | Practice exercise 2                                                         |
+| Chapter 4 practice 3.py        | Practice exercise 3                                                         |
+| Chapter 4 practice 4.py        | Practice exercise 4                                                         |
+| Chapter 4 practice 5.py        | Practice exercise 5                                                         |
 
 
 # Concepts Covered
